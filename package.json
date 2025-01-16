@@ -1,0 +1,24 @@
+{
+  "name": "mongodb-aggregate-functionalities",
+  "version": "1.0.0",
+  "description": "aggregate functionalities in the mongodb",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch --env-file=.env server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishek-S-Mahajan/mongodb-aggregate-functionalities.git"
+  },
+  "author": "Abhishek Mahajan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abhishek-S-Mahajan/mongodb-aggregate-functionalities/issues"
+  },
+  "homepage": "https://github.com/Abhishek-S-Mahajan/mongodb-aggregate-functionalities#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  }
+}
